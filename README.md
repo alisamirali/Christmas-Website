@@ -8,4 +8,4 @@
 
 ## [Website Demo](https://alisamirali.github.io/Christmas-Website/)
 
-![Beige Launching New Website Mockup Instagram Post](https://user-images.githubusercontent.com/62913154/166159815-81e1033f-50af-4c6a-ae13-7f02e789ddbf.png)
+![Christmas Store Mockup](https://user-images.githubusercontent.com/62913154/166159933-3783f8c4-17b1-4b21-b904-86d4619ab665.png)
